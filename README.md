@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bamidele oluwatobi</h1>
-<h3 align="center">A passionate data analyst/data scientist from Nigeria</h3>
+<h3 align="center">A passionate data professional from Nigeria</h3>
 <img align="right" alt="Coding" width="400" src="https://t4.ftcdn.net/jpg/05/90/45/35/360_F_590453560_ugMuPncnGYB6XnJqmC8xiPQx4eg3jmMD.jpg"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bamz1103&label=Profile%20views&color=0e75b6&style=flat" alt="bamz1103" /> </p>
